@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'silk',
     'main',
+    'lms_core',
 ]
 
 MIDDLEWARE = [
